@@ -3,3 +3,6 @@
 let idade: number = 28
 
 let peso: number = 68
+
+console.log(idade)
+console.log(peso)
