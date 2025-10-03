@@ -12,7 +12,7 @@ Abaixo você encontrará uma lista de **200 exercícios de codificação em Type
 
 ---
 
-## 📘 Exercícios de Revisão - JavaScript
+## 📘 Exercícios de Revisão - TypeScript
 
 1. [Exercício 01](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-01.ts) – Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas.  
 2. [Exercício 02](https://github.com/felipem5552/200-exercicios-javascript/blob/main/exercicio-02.ts) – Declare uma constante chamada "PI", atribua o valor de Pi a ela.  
