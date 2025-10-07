@@ -9,7 +9,7 @@ else if (voto_idade <= 15)
     console.log("Infelizmente não podemos prosseguir com a votação, retornando a página inicial...")
 
 else {
-    console.log("Por favor, digite uma idade válida.")
+    console.log("Por favor, digite uma idade válida")
 }
 
 //console.log("Muito obrigado, prossiga com a votação...")
