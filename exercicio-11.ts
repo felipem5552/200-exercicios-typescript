@@ -7,8 +7,8 @@ if (voto_idade >= 16) {
 }
 
 else if (voto_idade <= 15)
-    alert("Infelizmente não podemos prosseguir com a votação, retornando a página inicial...")
+    console.log("Infelizmente não podemos prosseguir com a votação, retornando a página inicial...")
 
 else {
-    alert("Por favor, digite uma idade válida.")
+    console.log("Por favor, digite uma idade válida.")
 }
