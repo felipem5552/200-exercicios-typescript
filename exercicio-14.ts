@@ -1,6 +1,6 @@
 //Exercício 14: Escreva um programa que verifica se um ano é bissexto.
 
-let ano = 2028
+let ano: number = 2028
 
 if (ano % 400 === 0) {
    console.log(ano + " é um ano bissexto!")
