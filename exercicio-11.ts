@@ -3,7 +3,7 @@
 let voto_idade: number = parseInt(prompt("Bem Vindo! Antes de começarmos as votações, precisamos saber qual é a sua idade:"))!
 
 if (voto_idade >= 16) {
-    alert("Muito obrigado, prossiga com a votação...")
+    console.log("Muito obrigado, prossiga com a votação...")
 }
 
 else if (voto_idade <= 15)
