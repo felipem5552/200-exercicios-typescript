@@ -15,4 +15,4 @@ else {
     console.log(ano + " não é um ano bissexto!")
 }
 
-//console.log(2028 é um ano bissexto!)
+//console.log(2028 é um ano bissexto!).
