@@ -1,0 +1,21 @@
+{
+  "name": "200-exercicios-typescript",
+  "version": "1.0.0",
+  "description": "Bem-vindo(a)!  \r Abaixo você encontrará uma lista de **200 exercícios de codificação em Typescript** para praticar lógica de programação.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipem5552/200-exercicios-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipem5552/200-exercicios-typescript/issues"
+  },
+  "homepage": "https://github.com/felipem5552/200-exercicios-typescript#readme"
+}
