@@ -1,4 +1,4 @@
-// Exercício 22: Escreva um programa que determina o número de dias em um mês.
+// Exercício 22: Escreva um programa que determina os números de dias em um mês.
 
 import * as readline from 'readline'
 
