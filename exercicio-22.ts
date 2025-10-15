@@ -2,7 +2,7 @@
 
 import * as readline from 'readline'
 
-// 1. Configura a interface de leitura/escrita.
+// Configura a interface de leitura/escrita.
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -24,7 +24,7 @@ const menu = `Escolha um mês para verificar o número de dias que ele possui:
 
 Digite o número referente à opção escolhida: `
 
-// 2. Faz a pergunta e processa a resposta.
+// Faz a pergunta e processa a resposta.
 rl.question(menu, (mes: string) => {
 
     let dias: string
@@ -55,7 +55,7 @@ rl.question(menu, (mes: string) => {
             dias = "Opção não identificada. Certifique-se de digitar um número de 1 a 12."
     }
 
-    // 3. Exibe o resultado e fecha a interface.
+    // Exibe o resultado e fecha a interface.
     console.log(dias)
     rl.close()
 })
