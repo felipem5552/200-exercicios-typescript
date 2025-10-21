@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/felipem5552/200-exercicios-typescript/issues"
   },
-  "homepage": "https://github.com/felipem5552/200-exercicios-typescript#readme"
+  "homepage": "https://github.com/felipem5552/200-exercicios-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^24.7.1"
+  }
 }
